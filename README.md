@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Chris
-Well Chrsitopher Sharpe to be exact. 
+Well Christopher Sharpe to be exact. 
 
 ## About Me
 From a young age, I have had a deep interest in technology, sparked by my love of gaming and curiosity about how games were developed. Pursuing this passion, I enrolled in Game Development at college. However, I found the course to be insufficient in satisfying my curiosity and decided to take matters into my own hands.
